@@ -9,10 +9,14 @@
   - PHP  
 ### [Calculator](https://github.com/FriquetLuca/Calculator-project)
   - JavaScript
+### [Formula Parser](https://github.com/Ikikaeru/Formula-Parser)
+  - C#
+### [NoName Programming - WIP](https://github.com/Ikikaeru/NoName-Programming)
+  - JavaScript
 
 ## Collaborative projects:
 
-### [Phasmophobia](https://github.com/FriquetLuca/Journal-Phasmophobia)
+### [Phasmophobia - WIP](https://github.com/FriquetLuca/Journal-Phasmophobia)
   - JavaScript
 ### [Project Planner](https://github.com/FriquetLuca/Project-Planner)
   - JavaScript
